@@ -1,0 +1,51 @@
+/* Buttons --Começo*/
+
+.primary-btn {
+  color: #000;
+  background-color: #f4f4f4;
+  padding: 0.8rem 2rem;
+  border: none;
+
+  font-size: 1rem;
+  font-weight: bold;
+
+  cursor: pointer;
+}
+
+.primary-lbl {
+  border: 0.3rem solid #f4f4f4;
+  padding: 0.5rem;
+  transition: 0.3s;
+}
+.primary-lbl:hover {
+  border: 0.3rem solid #f4f4f4;
+  padding: 0.5rem;
+  background-color: #f4f4f4;
+  cursor: pointer;
+}
+.secondary-btn {
+  color: #fff;
+  background-color: #a66fd1;
+  padding: 0.8rem 2rem;
+  border: none;
+
+  font-size: 1rem;
+  font-weight: bold;
+
+  cursor: pointer;
+}
+
+.secondary-lbl {
+  border: 0.3rem solid #a76fd17d;
+  padding: 0.5rem;
+  transition: 0.3s;
+}
+
+.secondary-lbl:hover {
+  border: 0.3rem solid #a66fd1;
+  padding: 0.5rem;
+  background-color: #a66fd1;
+  cursor: pointer;
+}
+
+/* Buttons --Fim*/
