@@ -2,8 +2,8 @@
 
 .primary-btn {
   color: #000;
-  background-color: #f4f4f4;
-  padding: 0.8rem 2rem;
+  background-color: #e8e8e8;
+  padding: 0.8rem 3.5rem;
   border: none;
 
   font-size: 1rem;
@@ -13,14 +13,14 @@
 }
 
 .primary-lbl {
-  border: 0.3rem solid #f4f4f4;
+  border: 0.3rem solid #e8e8e8;
   padding: 0.5rem;
   transition: 0.3s;
 }
 .primary-lbl:hover {
-  border: 0.3rem solid #f4f4f4;
+  border: 0.3rem solid #e8e8e8;
   padding: 0.5rem;
-  background-color: #f4f4f4;
+  background-color: #e8e8e8;
   cursor: pointer;
 }
 .secondary-btn {

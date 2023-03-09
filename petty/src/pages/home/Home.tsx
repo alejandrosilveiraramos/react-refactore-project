@@ -1,11 +1,24 @@
-import { Header } from "../../shared/components/header/Header"
+import React from "react"
 
+import { Header } from "../../shared/components/header/Header"
 
 export const Home = () => {
     return(
-        <div>
-            <Header/>
-        </div>
-        
+        <React.Fragment>
+            <h1> hi</h1>
+            <h1> hi</h1>
+            <h1> hi</h1>
+            <h1> hi</h1>
+            <h1> hi</h1>
+            <h1> hi</h1>
+            <h1> hi</h1>
+            <h1> hi</h1>
+            <h1> hi</h1>
+            <h1> hi</h1>
+            <h1> hi</h1>
+            <h1> hi</h1>
+            <h1> hi</h1>
+            
+        </React.Fragment>
     )
 }
